@@ -6,11 +6,11 @@
 
 > 👨🏻‍💻 Software Engineer | 📡 Tech Enthusiast | 👨🏻‍🎓 TUM Alumni | 🚀 Stock Trader | 🎮 Gamer | 🌱 Bonsai Lover | 💭 Amat Victoria Curam
 
-I am a software engineer focused on backend technologies, highly proficient in JavaScript (ES6) and TypeScript. Frontend development is a direction that I am currently investing on improving myself to broaden my skillset and expertise, with frameworks such as React.
+I am a software engineer focused on backend technologies, highly proficient in JavaScript (ES6) and TypeScript. Frontend development is a direction I am currently investing on improving myself to broaden my skillset and expertise, with frameworks such as React.
 
 First and foremost, I love to dig into customer problems and solve them with innovative approaches. It brings such a genuine joy to my heart to explore new perspectives on challenges and develop solutions. For me programming is like magic, it can improve people's lives and change the way how we interact with the world. This is what motivates and drives my passion for programming in particular, and computer science in general.
 
-My professional journey has enabled me to explore various software engineering aspects, while working with several small & big projects. Among those I can highlight the development of iOS applications with Swift, machine learning solutions with Python and Tensorflow, and some Java projects. Throughout my personal and professional experience, I have learned the following about myself:
+My professional journey has enabled me to explore various software engineering aspects, while working with several small & big projects. Among those I can highlight the development of iOS applications with Swift, machine learning solutions with Python and TensorFlow, and some Java projects. Throughout my personal and professional experience, I have learned the following about myself:
 
 I can successfully work with complex projects and transform business requirements into digital solutions.
 - I put the customer at the center of all that I do
