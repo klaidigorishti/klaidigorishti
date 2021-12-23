@@ -6,7 +6,7 @@
 
 > 👨🏻‍💻 Software Engineer | 📡 Tech Enthusiast | 👨🏻‍🎓 TUM Alumni | 🚀 Stock Trader | 🎮 Gamer | 🌱 Bonsai Lover | 💭 Amat Victoria Curam
 
-I am a software engineer focused on backend technologies, highly proficient in Javascript (ES6) and Typescript. Frontend development is a direction that I am currently investing on improving myself to broaden my skillset and expertise, with frameworks such as React.
+I am a software engineer focused on backend technologies, highly proficient in JavaScript (ES6) and TypeScript. Frontend development is a direction that I am currently investing on improving myself to broaden my skillset and expertise, with frameworks such as React.
 
 First and foremost, I love to dig into customer problems and solve them with innovative approaches. It brings such a genuine joy to my heart to explore new perspectives on challenges and develop solutions. For me programming is like magic, it can improve people's lives and change the way how we interact with the world. This is what motivates and drives my passion for programming in particular, and computer science in general.
 
